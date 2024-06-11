@@ -9,6 +9,6 @@ accountEmail = "k@p.com"
 accountCity = "Mumbai"
 // accountId = 2
 
-console.log(accountState);
+console.log(typeof null);
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
